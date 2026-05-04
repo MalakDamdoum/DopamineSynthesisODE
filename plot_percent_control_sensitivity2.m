@@ -1,3 +1,5 @@
+// Copyright (c) 2026 Malak Damdoum
+// Licensed under the MIT License. See LICENSE file for details.
 close all
 clear
 clc
