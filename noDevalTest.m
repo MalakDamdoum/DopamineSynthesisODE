@@ -1,6 +1,5 @@
-// Copyright © 2026 Malak Damdoum. All rights reserved.
-  // This code is proprietary and confidential.
-  // Unauthorized use is prohibited.
+// Copyright (c) 2026 Malak Damdoum
+// Licensed under the MIT License. See LICENSE file for details.
 function noDevalTest
 close all
 clear all
