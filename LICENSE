@@ -1,41 +1,21 @@
-PROPRIETARY LICENSE AGREEMENT
+MIT License
 
-Copyright © 2026 Malak Damdoum. All rights reserved.
+Copyright (c) 2026 MalakDamdoum
 
-TERMS AND CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. OWNERSHIP
-   This software and all associated code, documentation, and materials are the exclusive property of Malak Damdoum. Full ownership and intellectual property rights are retained by the copyright holder.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. PERMITTED USE
-   Permission is granted to view this code for educational and learning purposes only. You may read and study the code to understand its functionality and design patterns.
-
-3. RESTRICTIONS
-   Without explicit written permission from Malak Damdoum, you are PROHIBITED from:
-   - Using this code in any project (personal, educational, or commercial)
-   - Modifying or creating derivative works based on this code
-   - Copying, reproducing, or distributing this code or portions thereof
-   - Sublicensing or transferring rights to this code
-   - Using this code as a basis for creating competing products or services
-   - Reverse engineering or attempting to extract proprietary methods
-   - Publishing or presenting this code as your own work
-
-4. CONTACT FOR PERMISSION
-   If you wish to use this code or discuss licensing options, you must contact:
-   Name: Malak Damdoum
-   Email: malakdamdoum@hotmail.com
-
-   All requests for usage rights must be made in writing and require explicit written approval before any use is permitted.
-
-5. NO WARRANTY
-   This code is provided "as-is" without any warranties, express or implied. The copyright holder assumes no liability for any issues, damages, or consequences arising from unauthorized use.
-
-6. ENFORCEMENT
-   Unauthorized use, copying, or distribution of this code may result in civil and criminal penalties. The copyright holder reserves the right to pursue legal action against any violators.
-
-7. JURISDICTION
-   This license agreement is governed by applicable intellectual property laws.
-
----
-
-By accessing this repository, you acknowledge that you have read, understood, and agree to abide by all terms and conditions of this license.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
