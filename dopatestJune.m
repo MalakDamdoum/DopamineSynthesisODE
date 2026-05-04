@@ -1,3 +1,6 @@
+// Copyright © 2026 Malak Damdoum. All rights reserved.
+  // This code is proprietary and confidential.
+  // Unauthorized use is prohibited.
 function dy = dopatestJune(tspan,y)
 dy=zeros(16,1);
 
